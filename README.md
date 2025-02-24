@@ -16,12 +16,13 @@ This Power BI dashboard provides insights into Zepto's sales performance, order 
 
 
 🚀 How to Use
+
 1️⃣ Download the .pbix file and open it in Power BI.
 2️⃣ Connect with your dataset (if required).
 3️⃣ Explore insights using filters and visualizations.
 
 📢 Let's Connect!
-🔗 LinkedIn: 
+🔗 LinkedIn: http://www.linkedin.com/in/
 
 If you find this project helpful, don't forget to ⭐ Star the repo! 😊
 
